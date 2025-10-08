@@ -1,1 +1,1 @@
-# my_portfolio :- bhushandevportfolio.netlify.app
+# my_portfolio :- https://bhushandevportfolio.netlify.app/
